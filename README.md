@@ -1,4 +1,5 @@
 ![Designer (3)](https://github.com/geetanshudev/Data_Analysis_project/assets/119582068/1f8dbd75-1d4d-47f0-b73b-38d5d1bd0522)
+ ![Designer (1)](https://github.com/geetanshudev/Data_Analysis_project/assets/119582068/aed32b82-5e91-457d-92e9-c61f458caaf5)
 In this repository you have Data analysis on different Datasets that i have been downloaded From Kaggle some of the datasets are :-
 <br>
 <ol>
@@ -9,7 +10,7 @@ In this repository you have Data analysis on different Datasets that i have been
 <ol>
   <li>
     Netflix Dataset :
-    ![Designer (1)](https://github.com/geetanshudev/Data_Analysis_project/assets/119582068/aed32b82-5e91-457d-92e9-c61f458caaf5)
+   
     <br> From that data set I have find Top 10 countries that watch Netflix with graphs, different Number of ratings of movies , with years.
   </li>
   <li>Songs Dataset : <br> In this data set i have find oldest which was from 1901 and latest song of 2014 this dataset have 4850 songs and have 8 columns <br> 
